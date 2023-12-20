@@ -1,0 +1,19 @@
+- дано:
+	- ![image.png](../assets/image_1702999838259_0.png)
+	- ![image.png](../assets/image_1702999849803_0.png)
+	- ![image.png](../assets/image_1702999864197_0.png)
+	- ![image.png](../assets/image_1702999873602_0.png)
+	-
+- преобразования координат
+	- ![image.png](../assets/image_1702999414952_0.png)
+	- ![image.png](../assets/image_1702999425722_0.png)
+- Движение на плоскости
+	- ![image.png](../assets/image_1703000371662_0.png)
+	- ![image.png](../assets/image_1703028057072_0.png)
+	- ![image.png](../assets/image_1703031630277_0.png)
+	- ![image.png](../assets/image_1703031725246_0.png)
+	- ![image.png](../assets/image_1703046557092_0.png)
+	- $\xi$ может быть отриц? #question
+	- ![image.png](../assets/image_1703047573195_0.png)
+	- ![image.png](../assets/image_1703048991323_0.png)
+	-
